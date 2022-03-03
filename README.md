@@ -6,6 +6,7 @@ The purpose of this project was to provide an analysis of a school district. Thi
 ## Results
 - After the scores for ninth graders from Thomas High School were removed, the district summary was affected as shown by a slight decrease in the percentage of students passing math, passing reading, and the overall percentage passing. 
 - The school summary specifically for Thomas High School shows increases in the percentage passing math, percentage passing reading, and overall percentage passing, as shown by the last three columns in the images below. 
+
 Before:
 <img width="744" alt="ths_summary_before" src="https://user-images.githubusercontent.com/98051208/156588327-15a38205-d259-4c83-aa89-75257c9a2875.png">
 
